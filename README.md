@@ -14,5 +14,6 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 > add one(*) or two(**) stars per day. keep TOTAL updated.
 
+* if you're a new user joining, just copy/paste a new line and add ur info
 
 [https://adventofcode.com/2020/](https://adventofcode.com/2020/)

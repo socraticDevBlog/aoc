@@ -10,7 +10,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 | winny      | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   4   |
 | tacixat    | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   6   |
 | Googlebot  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |       |
-| luxemboye  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |       |
+| luxemboye  | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   6   |
 
 > add one(*) or two(**) stars per day. keep TOTAL updated.
 

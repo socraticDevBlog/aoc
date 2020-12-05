@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
-includes: CONTRIBUTING.md
+include:
+  - README.md
+  - CONTRIBUTING.md

@@ -11,8 +11,6 @@
 
 > add one(*) or two(**) stars per day. keep TOTAL updated.
 
-* if you're a new user joining, just copy/paste a new line and add ur info
-
 [Visit official dailybuild LEADERBOARD web page](https://aoc.dailybuild.org/)
 
 [Visit the mothership👩‍🍼🚢](https://dailybuild.org/)

@@ -7,7 +7,7 @@
     - copy an existing full row
     - add ur name, linky to ur code (github, gitlab)
     - add ur stars
-    - add Total of stars (last column on the left)
+    - add Total of stars (last column on the right)
     - commit and push your branch to repo
     - open a merge request
     - welcome aboard ! 🚢

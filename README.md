@@ -11,7 +11,7 @@
 
 > add one(*) or two(**) stars per day. keep TOTAL updated.
 
-## NEW USERS -> [http://aoc.dailybuild.org/CONTRIBUTING.html](http://aoc.dailybuild.org/CONTRIBUTING.html)
+## NEW USERS -> [https://aoc.dailybuild.org/CONTRIBUTING.html](http://aoc.dailybuild.org/CONTRIBUTING.html)
 
 [Visit official dailybuild LEADERBOARD web page](https://aoc.dailybuild.org/)
 

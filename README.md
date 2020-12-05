@@ -1,10 +1,6 @@
-# aoc2020-dailybuild 🎅💾🌟
-
 <!-- coders unite!!! -->
-[Visit official dailybuild LEADERBOARD web page](https://aoc.dailybuild.org/)
-[Visit the mothership👩‍🍼🚢](https://dailybuild.org/)
 
-## dailybuild official self-service leaderboard
+# 🎅💾🌟 Advent of Code 2020 (AoC2020) dailybuild official self-service leaderboard
 
 | contestant             | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | TOTAL |
 | ---------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | ---| -- | -- | -- | -- | -- | -- | -- | -- | ----- |
@@ -16,6 +12,10 @@
 > add one(*) or two(**) stars per day. keep TOTAL updated.
 
 * if you're a new user joining, just copy/paste a new line and add ur info
+
+[Visit official dailybuild LEADERBOARD web page](https://aoc.dailybuild.org/)
+
+[Visit the mothership👩‍🍼🚢](https://dailybuild.org/)
 
 [https://adventofcode.com/2020/](https://adventofcode.com/2020/)
 

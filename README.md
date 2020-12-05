@@ -26,4 +26,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 [winny]: https://github.com/winny-/aoc/tree/master/2020
 [tacixat]: https://github.com/TACIXAT/AdventOfCode2020
 [Googlebot]: #
-[luxemboye]: #
+[luxemboye]: https://github.com/luxemboye

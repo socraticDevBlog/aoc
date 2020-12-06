@@ -7,7 +7,8 @@
 | [winny][winny]         | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   10   |
 | [tacixat][tacixat]     | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   10  |
 | [Googlebot][Googlebot] |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |       |
-| [luxemboye][luxemboye] | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   10  |
+| [luxemboye][luxemboye] | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | 10    |
+| [prussian][prussian]   | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | 10    |
 
 > add one(*) or two(**) stars per day. keep TOTAL updated.
 
@@ -25,3 +26,4 @@
 [tacixat]: https://github.com/TACIXAT/AdventOfCode2020
 [Googlebot]: #
 [luxemboye]: https://github.com/luxemboye
+[prussian]: https://github.com/adedomin/Advent-of-Code-2020

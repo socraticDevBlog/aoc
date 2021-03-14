@@ -7,7 +7,7 @@
 | [winny][winny]         | ** | ** | ** | ** | ** | ** | ** | ** | ** |    | ** | ** | *  | *  | ** | *  |    |    |    |    |    |    |    |    |   27  |
 | [tacixat][tacixat]     | ** | ** | ** | ** | ** | ** | ** | ** | ** |  * |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   19  |
 | [Googlebot][Googlebot] |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |       |
-| [luxemboye][luxemboye] | ** | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   12  |
+| [luxemboye][luxemboye] | ** | ** | ** | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   16  |
 | [prussian][prussian]   | ** | ** | ** | ** | ** |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |   10  |
 
 > add one(*) or two(**) stars per day. keep TOTAL updated.
